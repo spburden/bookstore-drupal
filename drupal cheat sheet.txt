@@ -1,0 +1,19 @@
+utf8_general_ci
+In the "Host" field, select "Local".
+Under the "Database for User" section, select only "Grant all privileges on database yourdatabasename"
+
+cp sites/default/default.settings.php sites/default/settings.php
+chmod -R a+w sites/default
+
+Under "Database host" enter "127.0.0.1" and under "Database port" enter "8889". 
+
+rm .gitignore
+git init
+
+mkdir db-backup
+
+In Tables verify that all tables are selected for export.
+ZIPPED
+Under Object creation options make sure every option is selected except the IF NOT EXISTS box in the create table options
+
+drush cc all
