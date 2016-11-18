@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Bookstore Map Locations feature.
+ */
+
+include_once 'bookstore_map_locations.features.inc';
