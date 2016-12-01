@@ -22,7 +22,8 @@ You will need MAMP/WAMP installed on your computer.
 * Reviewer user: `reviewer`, password: `reviewer`
 
 ## Link
-https://github.com/spburden/bookstore-drupal
+* REPO: https://github.com/spburden/bookstore-drupal
+* LIVE: http://dev-pdx-bookstore2.pantheonsite.io/
 
 
 ## Known Bugs
