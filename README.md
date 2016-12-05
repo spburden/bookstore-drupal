@@ -4,6 +4,8 @@
 
 #### By _**Stephen Burden**_
 
+<img src="Screen Shot 2016-11-18 at 7.06.54 PM.png" alt="a screenshot of the site">
+
 ## Specifications
 * Users with the reviewer role can comment on and create book reviews and edit/delete their content.
 * Authenticated users can view book reviews and comment on them and edit/delete their comments.
